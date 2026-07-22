@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Pedidos BitCom - Landing Page",
+  "description": "Landing page oficial e demonstrativa para o Sistema de Pedidos BitCom v1.1.0 (Backend Electron + App Android para Garçons com Firebird). Pronta para Vercel sem banco de dados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

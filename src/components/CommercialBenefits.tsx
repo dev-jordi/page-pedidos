@@ -45,7 +45,7 @@ export const CommercialBenefits: React.FC<CommercialBenefitsProps> = ({ onOpenWh
             </div>
 
             <h2 className="text-3xl sm:text-4xl font-extrabold text-slate-900 tracking-tight leading-tight">
-              A Solução Definitiva que se Paga no Primeiros Meses
+              A Solução Definitiva que se Paga nos Primeiros Meses
             </h2>
 
             <p className="text-slate-600 text-base leading-relaxed">

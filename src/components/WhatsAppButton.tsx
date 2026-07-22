@@ -7,7 +7,7 @@ interface WhatsAppButtonProps {
 }
 
 export const WhatsAppButton: React.FC<WhatsAppButtonProps> = ({
-  phoneNumber = "5554999999999", // Editable phone number
+  phoneNumber = "555197097176", // Editable phone number
   defaultMessage = "Olá! Gostaria de agendar uma demonstração do BitCom Pedidos para o meu restaurante."
 }) => {
   const [isOpen, setIsOpen] = useState(false);

@@ -17,7 +17,7 @@ export default function App() {
 
   const handleOpenWhatsApp = () => {
     const message = encodeURIComponent("Olá! Vi o site do BitCom Pedidos e gostaria de agendar uma demonstração sem compromisso para o meu restaurante.");
-    window.open(`https://wa.me/5554999999999?text=${message}`, '_blank');
+    window.open(`https://wa.me/555197097176?text=${message}`, '_blank');
   };
 
   return (
